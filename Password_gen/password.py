@@ -1,7 +1,6 @@
 #password generator
 import random
 import string
-from numpy import r_
 import pandas as pd
 
 def Password_generator(length):
